@@ -1,4 +1,6 @@
+transformers
+torch
+duckduckgo-search 
+python-dotenv
+serpapi
 requests
-beautifulsoup4
-lxml
-
