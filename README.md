@@ -27,7 +27,7 @@ This project is an agentic system designed to extract **reliable product and new
 - Requests / SerpAPI / 
 - Logging & Error Handling
 
-
+```
 ├── agents/
 │   ├── search_agent.py
 │   ├── summarize_agent.py
@@ -38,7 +38,7 @@ This project is an agentic system designed to extract **reliable product and new
 ├── .env
 ├── .gitignore
 └── README.md
-
+```
 ---
 # Steps to Run the Project
 
