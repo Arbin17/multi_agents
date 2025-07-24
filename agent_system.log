@@ -1,0 +1,36 @@
+2025-07-24 13:35:21,977 - CoordinatorAgent - INFO - Processing query: iPhone 16 Pro Max latest news
+2025-07-24 13:35:21,977 - SearchAgent - INFO - Searching for: iPhone 16 Pro Max latest news
+2025-07-24 13:35:22,309 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:35:23,659 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:35:24,985 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:35:25,986 - CoordinatorAgent - WARNING - No search results found
+2025-07-24 13:35:25,987 - CoordinatorAgent - INFO - Processing query: Samsung Galaxy S25 Ultra announcement
+2025-07-24 13:35:25,988 - SearchAgent - INFO - Searching for: Samsung Galaxy S25 Ultra announcement
+2025-07-24 13:35:26,285 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:35:27,624 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:35:28,982 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:35:29,983 - CoordinatorAgent - WARNING - No search results found
+2025-07-24 13:35:29,984 - CoordinatorAgent - INFO - Processing query: MacBook Pro M4 2025 release
+2025-07-24 13:35:29,984 - SearchAgent - INFO - Searching for: MacBook Pro M4 2025 release
+2025-07-24 13:35:30,296 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:35:31,613 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:35:32,989 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:35:33,991 - CoordinatorAgent - WARNING - No search results found
+2025-07-24 13:39:04,626 - CoordinatorAgent - INFO - Processing query: iPhone 16 Pro Max latest news
+2025-07-24 13:39:04,626 - SearchAgent - INFO - Searching for: iPhone 16 Pro Max latest news
+2025-07-24 13:39:04,946 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:39:06,278 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:39:07,599 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:39:08,608 - CoordinatorAgent - WARNING - No search results found
+2025-07-24 13:39:08,608 - CoordinatorAgent - INFO - Processing query: Samsung Galaxy S25 Ultra announcement
+2025-07-24 13:39:08,609 - SearchAgent - INFO - Searching for: Samsung Galaxy S25 Ultra announcement
+2025-07-24 13:39:08,929 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:39:10,274 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:39:11,655 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:39:12,659 - CoordinatorAgent - WARNING - No search results found
+2025-07-24 13:39:12,659 - CoordinatorAgent - INFO - Processing query: MacBook Pro M4 2025 release
+2025-07-24 13:39:12,659 - SearchAgent - INFO - Searching for: MacBook Pro M4 2025 release
+2025-07-24 13:39:12,955 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:39:14,269 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:39:15,583 - SearchAgent - ERROR - Search failed with status 202
+2025-07-24 13:39:16,596 - CoordinatorAgent - WARNING - No search results found
